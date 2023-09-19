@@ -1,0 +1,8 @@
+﻿namespace NewRepoCaner.Models
+{
+    public class Ogrenci2
+    {
+       string name = "Caner";
+       int id = 3;
+    }
+}
